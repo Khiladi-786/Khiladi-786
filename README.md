@@ -161,17 +161,12 @@ nikhil = {
 
 ## 📊 GitHub Activity
 
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Khiladi-786&theme=tokyonight&hide_border=true)
-
-</div>
-
 **Key Metrics:**
-- 🔥 **40 total contributions** since Aug 2024
-- 📈 **Current streak:** 2 days (Feb 17-18)
+- 🔥 **40+ total contributions** since Aug 2024
+- 📈 **Current streak:** 4 days (Feb 17-20)
 - 🎯 **6 production-ready projects** deployed
 - 💻 **Primary language:** Python (62.2%)
+- 📦 **11 repositories** created
 
 ---
 
