@@ -1,259 +1,255 @@
 <div align="center">
 
-# Hey there! I'm Nikhil More 👋
+<!-- Dynamic Typing Header -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Nikhil+More+%F0%9F%91%8B;AI%2FML+Engineer+%7C+Computer+Vision;Cybersecurity+%7C+Open+Source+Contributor;Building+AI+to+fight+cybercrime+%F0%9F%9B%A1%EF%B8%8F)](https://git.io/typing-svg)
 
-### 🚀 AI/ML Engineer | Computer Vision | Generative AI | Fighting Cybercrime with Machine Learning
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-moretech)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Khiladi-786)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:morenikhil7822@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Khiladi-786&color=blueviolet&style=for-the-badge)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:0066FF&height=200&section=header&text=Nikhil%20More&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20Building%20AI%20for%20Impact&descSize=20&descAlignY=55&animation=fadeIn" width="100%"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+<div align="center">
+
+### 🌟 *"Building real-world AI systems to fight cybercrime and create impact in India's tech ecosystem."*
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
 
 ```python
-nikhil = {
-    "role"       : "B.Tech CSE (AI/ML) — University of Mumbai (2023–2027)",
-    "focus"      : ["Machine Learning", "Computer Vision", "Cybersecurity", "NLP"],
-    "currently"  : "Building production ML systems | Phishing detection + YOLOv8",
-    "ambassadors": ["C-DAC Mumbai", "Google Student Ambassador", "GfG Campus Mantri"],
-    "internships": ["Code B Solutions", "Edunet Foundation", "Oasis Infobyte"],
-    "trained"    : "50+ students in AI/ML technologies",
-    "mission"    : "Fighting cybercrime with ML & promoting India's tech 🇮🇳",
-    "status"     : "Open to AI/ML Internships | Placement-ready for 2027"
-}
+class NikhilMore:
+    def __init__(self):
+        self.name        = "Nikhil More"
+        self.degree      = "B.Tech CSE (AI/ML) — University of Mumbai (2023–2027)"
+        self.role        = "AI/ML Engineer | Computer Vision | Cybersecurity"
+        self.mission     = "Build AI systems that fight cybercrime & empower India's tech ecosystem"
+        self.location    = "Mumbai, India 🇮🇳"
+        self.email       = "morenikhil7822@gmail.com"
+
+    def current_focus(self):
+        return [
+            "🧠 Advanced Machine Learning & MLOps",
+            "🔐 AI-powered Cybersecurity Systems",
+            "🌍 Open Source Contributions",
+            "🚀 Real-world AI Deployment"
+        ]
+
+    def goals(self):
+        return {
+            "students_trained":    "200+ in GitHub & Open Source",
+            "os_contributors":     "Help 50+ students make first PR",
+            "community":           "Build a thriving AI/ML dev community"
+        }
+
+me = NikhilMore()
+print(me.mission)
+# Output: Build AI systems that fight cybercrime & empower India's tech ecosystem
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Skills
 
-**Languages & Core**
+<div align="center">
 
+### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Machine Learning & Data Science**
-
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+### 🤖 ML & Data Science
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
-![SHAP](https://img.shields.io/badge/SHAP-FF6B6B?style=for-the-badge)
+![SHAP](https://img.shields.io/badge/SHAP-Explainability-FF6B6B?style=for-the-badge)
 
-**Computer Vision & Deep Learning**
-
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+### 🧠 Deep Learning & Computer Vision
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFAB?style=for-the-badge&logo=yolo&logoColor=black)
 
-**Deployment & DevOps**
-
+### 🔧 Tools & Deployment
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-**Development Tools**
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+
+</div>
 
 ---
 
-## 🔥 Featured Projects
-
-### 🛡️ [Phishing URL Detection System](https://github.com/Khiladi-786/Phishing_Deployment)
-**Production-ready cybersecurity ML system | 89.63% accuracy**
-
-- Analyzed **11,430 URLs** with comprehensive EDA (histograms, correlation heatmaps, pair plots)
-- Built **Random Forest classifier** achieving **89.63% accuracy** on 57 URL-extractable features
-- Implemented **SHAP explainability** — identified `google_index` & `special_char_ratio` as critical
-- Deployed via **Flask REST API** with modern dark-themed UI & confidence scoring
-- **Dockerized** for production deployment across any platform
-- **Real impact:** Detects phishing URLs in <100ms with visual confidence bars
-
-![Python](https://img.shields.io/badge/Python-blue?style=flat-square)
-![Random Forest](https://img.shields.io/badge/Random_Forest-green?style=flat-square)
-![Flask](https://img.shields.io/badge/Flask-black?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square)
-![SHAP](https://img.shields.io/badge/SHAP-orange?style=flat-square)
-
----
-
-### 🎯 [Real-Time Object Detection](https://github.com/Khiladi-786/Real-Time-object-detection-)
-**YOLOv8-powered detection | 29 objects in single frame**
-
-- **Detected 29 objects simultaneously** with 92% confidence on complex scenes
-- Dual modes: **Image upload** analysis + **Live webcam** streaming through browser
-- Built with **YOLOv8** (COCO 80-class detection) + Flask backend
-- Real-time bounding box visualization with class labels & confidence scores
-- Clean modern UI with detection statistics dashboard
-
-![Python](https://img.shields.io/badge/Python-blue?style=flat-square)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-red?style=flat-square)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square)
-![Flask](https://img.shields.io/badge/Flask-black?style=flat-square)
-
----
-
-### 📧 [Email Spam Detection](https://github.com/Khiladi-786/Email-Spam-Detection)
-**NLP-based text classifier | TF-IDF vectorization**
-
-- Built spam classifier using **Natural Language Processing** techniques
-- Applied **TF-IDF vectorization** for intelligent feature extraction from text
-- Trained on real-world spam dataset with high precision/recall balance
-- Identifies spam patterns: urgency words, suspicious links, poor grammar
-
-![Python](https://img.shields.io/badge/Python-blue?style=flat-square)
-![NLP](https://img.shields.io/badge/NLP-orange?style=flat-square)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square)
-
----
-
-### 🌾 [Crop Recommendation System](https://github.com/Khiladi-786/Crop-Detection)
-**Smart agriculture | Flask web app**
-
-- ML model recommending optimal crops based on soil NPK, pH, temperature, humidity, rainfall
-- Helps farmers maximize yield through data-driven crop selection
-- Flask deployment with clean HTML interface for field data input
-- **Real-world impact:** Sustainable farming through precision agriculture
-
-![Python](https://img.shields.io/badge/Python-blue?style=flat-square)
-![ML](https://img.shields.io/badge/Machine_Learning-green?style=flat-square)
-![Flask](https://img.shields.io/badge/Flask-black?style=flat-square)
-
----
-
-### 🚗 [Car Price Prediction](https://github.com/Khiladi-786/Car-Price-Prediction)
-**Regression model | Used car valuation**
-
-- Predicts fair market value based on brand, year, mileage, fuel type, transmission
-- Comprehensive EDA revealing depreciation patterns across segments
-- Insights: Diesel cars depreciate slower, automatic commands 30-40% premium
-
-![Python](https://img.shields.io/badge/Python-blue?style=flat-square)
-![Regression](https://img.shields.io/badge/Regression-green?style=flat-square)
-
----
-
-### 📈 [Sales Forecasting Model](https://github.com/Khiladi-786/Sales_Prediction_Model)
-**Advertising ROI analysis | Budget optimization**
-
-- Forecasts product sales based on TV, radio, newspaper advertising spend
-- **Key finding:** TV advertising shows strongest ROI, newspaper minimal impact
-- Provides actionable budget allocation recommendations for marketers
-
-![Python](https://img.shields.io/badge/Python-blue?style=flat-square)
-![Regression](https://img.shields.io/badge/Regression-green?style=flat-square)
-
----
-
-## 📊 GitHub Activity
-
-**Key Metrics:**
-- 🔥 **40+ total contributions** since Aug 2024
-- 📈 **Current streak:** ३० days
-- 🎯 **6 production-ready projects** deployed
-- 💻 **Primary language:** Python (62.2%)
-- 📦 **11 repositories** created
-
----
-
-## 🏆 Professional Experience
-
-| Role | Organization | Duration | Key Achievements |
-|---|---|---|---|
-| 🇮🇳 **Campus Ambassador** | C-DAC Mumbai | Jan 2026 – Present | Promoting DHRUV64 microprocessor & Bhashini AI platforms |
-| 🌟 **Google Student Ambassador** | Google | Aug 2025 – Jan 2026 | Trained **50+ students** in Gemini AI & ML technologies |
-| 💻 **Campus Mantri** | GeeksforGeeks | Jan 2026 – Present | Community leadership & technical mentorship |
-| 🔬 **Data Science Intern** | Code B Solutions | Dec 2025 – Present | Built phishing detection system analyzing **11,430 URLs** |
-| 🤖 **AI Intern** | Edunet Foundation | Aug 2025 – Jan 2026 | Green Skills program — AI project solutions |
-| 📊 **Data Science Intern** | Oasis Infobyte | Sep 2025 – Oct 2025 | Delivered car price & sales prediction models |
-
----
-
-## 🎓 Certifications & Recognition
-
-- 🏅 **AI/ML Learning Track** — Gen AI Academy 2.0
-- 🏅 **Naukri Campus Young Turks 2025** — Selected participant
-- 🏅 **Build Real World AI Apps** — Google (Gemini & Imagen)
-- 🏅 **Data Analytics Job Simulation** — Deloitte Australia
-
----
-
-## 💡 Mission & Impact
-
-> *"India doesn't just need to consume global technology — it needs to build its own."*
-
-**My contribution to Indian tech ecosystem:**
-
-🛡️ **Cybersecurity:** ML-powered phishing detection (89.63% accuracy) protecting users from online fraud
-
-🎯 **Computer Vision:** Real-time object detection systems (29 objects/frame @ 92% confidence)
-
-🇮🇳 **Indigenous Tech Advocacy:** Promoting DHRUV64 microprocessor & Bhashini AI to 50+ students
-
-🌾 **Sustainable Agriculture:** Smart crop recommendation system for data-driven farming
-
-👥 **Community Impact:** Trained 50+ students in practical AI/ML applications
-
----
-
-## 📌 Technical Expertise
-
-**Machine Learning**
-- Supervised Learning: Random Forest, Decision Trees, Linear/Logistic Regression, SVM
-- Model Evaluation: Cross-validation, hyperparameter tuning, confusion matrices
-- Explainability: SHAP values, feature importance analysis
-- Feature Engineering: Selection, extraction, normalization, encoding
-
-**Computer Vision**
-- Object Detection: YOLOv8 (80 COCO classes)
-- Real-time Processing: Webcam streaming, frame-by-frame analysis
-- Image Operations: OpenCV preprocessing, augmentation, transformations
-
-**Natural Language Processing**
-- Text Classification: Spam detection, sentiment analysis
-- Feature Extraction: TF-IDF vectorization, n-grams
-- Preprocessing: Tokenization, stemming, stop word removal
-
-**Data Science**
-- EDA: Pandas, Matplotlib, Seaborn visualization
-- Statistical Analysis: Correlation studies, distribution analysis
-- Data Cleaning: Missing values, outliers, normalization
-
-**MLOps & Deployment**
-- Web Frameworks: Flask REST APIs with HTML/CSS/JS frontends
-- Containerization: Docker for reproducible deployments
-- Version Control: Git/GitHub for collaborative development
-- Production Pipelines: Model serialization (pickle), scalers, preprocessors
-
----
+## 🚀 Featured Projects
 
 <div align="center">
 
-## 📬 Let's Build Something That Matters!
+| 🔐 Phishing URL Detection | 🎯 Real-Time Object Detection | 🤖 Smart Study Agent |
+|:---:|:---:|:---:|
+| Random Forest · SHAP · Flask | YOLOv8 · OpenCV · Flask UI | AI-Powered Learning Assistant |
+| `89.63% Accuracy` · `<100ms` | `29 Object Classes` | `Productivity + Notes` |
+| `11,430 URLs · Docker` | `Real-Time Inference` | `Student-First Design` |
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-moretech)
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Khiladi-786)
-[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:morenikhil7822@gmail.com)
+</div>
 
-**🎯 Open to:** AI/ML Internships | Data Science Roles | Research Collaborations
+### 🔐 Phishing URL Detection System
+> *Defending India's internet users with explainable AI*
 
-**📍 Location:** Mumbai, Maharashtra, India
+- 🎯 **89.63% accuracy** using Random Forest on 11,430 URLs
+- 🧠 **SHAP explainability** — model decisions you can actually trust
+- ⚡ **Real-time detection** at under 100ms per URL
+- 🐳 **Production-ready** — Flask API + Docker containerization
+- 🔍 Transparent AI that shows *why* a URL is flagged
 
-**🎓 Graduating:** 2027 | Seeking Full-Time Opportunities
+---
+
+### 🎯 Real-Time Object Detection System
+> *29 objects. Zero lag. Total vision.*
+
+- 🚀 Powered by **YOLOv8 + OpenCV** for blazing-fast inference
+- 🌐 **Flask-based web UI** for seamless interaction
+- 📦 Detects **29 object categories** in real-time video streams
+
+---
+
+### 📊 Customer Segmentation Engine
+> *Turning raw data into business intelligence*
+
+- 🔬 ML clustering to uncover customer behaviour patterns
+- 📈 Actionable insights for **targeted marketing strategies**
+- 💡 Bridges the gap between data science and business impact
+
+---
+
+### 🤖 Smart Study Agent
+> *Your AI-powered personal tutor*
+
+- 📚 AI assistant designed for student productivity
+- 🗒️ Helps with learning, notes, summaries, and study planning
+- 🎓 Built with the mission: *make quality education accessible*
+
+---
+
+### Other Projects
+
+| Project | Tech | Highlight |
+|---------|------|-----------|
+| 📩 Email Spam Detection | NLP · TF-IDF | Text classification pipeline |
+| 🌾 Crop Recommendation | Scikit-learn | Agriculture + AI for India |
+| 🚗 Car Price Prediction | Regression ML | Feature engineering + tuning |
+| 📈 Sales Forecasting | ML · Analytics | Marketing ROI optimization |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Khiladi-786&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khiladi-786&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" height="180"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Khiladi-786&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" width="70%"/>
+
+</div>
+
+<div align="center">
+
+[![Nikhil's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Khiladi-786&bg_color=0D1117&color=00D4FF&line=0066FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/Khiladi-786)
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+![Pull Shark](https://img.shields.io/badge/🦈%20Pull%20Shark-Achievement-00D4FF?style=for-the-badge)
+![Quickdraw](https://img.shields.io/badge/⚡%20Quickdraw-Achievement-FFD700?style=for-the-badge)
+![YOLO](https://img.shields.io/badge/🔥%20YOLO-Achievement-FF6B6B?style=for-the-badge)
+![Pair Extraordinaire](https://img.shields.io/badge/🤝%20Pair%20Extraordinaire-Achievement-A855F7?style=for-the-badge)
+
+</div>
+
+---
+
+## 💼 Experience & Roles
+
+```
+🏢  Data Science Intern        │  Code B Solutions
+🤖  AI Intern                  │  Edunet Foundation
+📊  Data Science Intern        │  Oasis Infobyte
+🎓  Google Student Ambassador  │  Trained 50+ students
+📘  GFG Campus Mantri          │  GeeksforGeeks
+🔬  C-DAC Ambassador           │  Centre for Development of Advanced Computing
+```
+
+---
+
+## 🌍 Open Source Journey
+
+<div align="center">
+
+```
+🌱 Started With          →    first-contributions project
+📦 Contributed To        →    public-apis repository
+🔧 Building              →    Consistent contribution streak
+🎯 Next Goal             →    Help 50+ students make their first PR
+🌟 Vision                →    Build India's strongest AI/ML open-source community
+```
+
+</div>
+
+> *"Every contribution, no matter how small, moves the open-source world forward."*
+
+---
+
+## 👥 Community Impact
+
+<div align="center">
+
+| 🎓 Students Trained | 🏫 Workshops Conducted | 🌐 Ambassadorships | 🎯 Goal |
+|:---:|:---:|:---:|:---:|
+| **50+** | GitHub & Open Source | Google · GFG · C-DAC | **200+ students** |
+
+</div>
+
+- 🧑‍🏫 **Google Student Ambassador** — conducted hands-on GitHub workshops for 50+ students
+- 📖 Promoted **free learning resources** through GFG Campus Mantri role
+- 🔭 Built a **physics simulation tool** to help students visualize real-world concepts
+- 🤝 Mentored beginners in their first open-source contributions
+
+---
+
+## 📚 Currently Learning
+
+<div align="center">
+
+![MLOps](https://img.shields.io/badge/📦%20MLOps-Learning-00D4FF?style=for-the-badge)
+![Advanced ML](https://img.shields.io/badge/🧠%20Advanced%20ML-Deep%20Diving-FF6B6B?style=for-the-badge)
+![AI Deployment](https://img.shields.io/badge/🚀%20AI%20Deployment-Building-00FF88?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/🌍%20Open%20Source-Contributing-FFD700?style=for-the-badge)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Khiladi--786-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Khiladi-786)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nikhil--moretech-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-moretech)
+[![Email](https://img.shields.io/badge/Email-morenikhil7822%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:morenikhil7822@gmail.com)
 
 </div>
 
@@ -261,8 +257,14 @@ nikhil = {
 
 <div align="center">
 
-*"Building AI systems that solve real problems, not just complete assignments."*
+### 💡 Open to collaborations on AI/ML projects, open source, and student mentorship!
 
-⭐ **Star my repos if you find them useful!** ⭐
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:00D4FF&height=120&section=footer&animation=fadeIn" width="100%"/>
+
+</div>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Khiladi-786&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
