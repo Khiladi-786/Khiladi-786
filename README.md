@@ -150,20 +150,20 @@ print(me.mission)
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Khiladi-786&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&count_private=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khiladi-786&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Khiladi-786&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&count_private=true&hide_rank=true" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khiladi-786&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" height="175"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Khiladi-786&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" width="70%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Khiladi-786&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" width="60%"/>
 
 </div>
 
 <div align="center">
 
-[![Nikhil's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Khiladi-786&bg_color=0D1117&color=00D4FF&line=0066FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/Khiladi-786)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Khiladi-786&theme=tokyo-night&hide_border=true)
 
 </div>
 
@@ -200,14 +200,22 @@ print(me.mission)
 <div align="center">
 
 ```
-🌱 Started With          →    first-contributions project
+🌱 First PR              →    first-contributions (Mar 2026)
+🤖 Real-World PR         →    JdeRobot/PerceptionMetrics — YOLO notebook robustness fix
+                               +34 / -15 lines changed · 7 comments received
 📦 Contributed To        →    public-apis repository
-🔧 Building              →    Consistent contribution streak
+📊 Activity              →    155 contributions in the last year
+                               58 commits across 8 repos in March 2026 alone
 🎯 Next Goal             →    Help 50+ students make their first PR
 🌟 Vision                →    Build India's strongest AI/ML open-source community
 ```
 
 </div>
+
+### 🔥 Highlighted Contribution
+
+> **[JdeRobot/PerceptionMetrics](https://github.com/JdeRobot/PerceptionMetrics)** — *Fix notebook errors and improve robustness for missing results, dataset, and dependencies*
+> Improved the usability of YOLO tutorial notebooks by handling `NameError` when results is undefined, missing dataset files, and broken dependencies. **+34 / −15 lines · 7 comments**
 
 > *"Every contribution, no matter how small, moves the open-source world forward."*
 
@@ -217,9 +225,9 @@ print(me.mission)
 
 <div align="center">
 
-| 🎓 Students Trained | 🏫 Workshops Conducted | 🌐 Ambassadorships | 🎯 Goal |
+| 🎓 Students Trained | 🏫 Workshops Conducted | 🌐 Ambassadorships | 📊 GitHub Contributions |
 |:---:|:---:|:---:|:---:|
-| **50+** | GitHub & Open Source | Google · GFG · C-DAC | **200+ students** |
+| **50+** | GitHub & Open Source | Google · GFG · C-DAC | **155 in last year** |
 
 </div>
 
