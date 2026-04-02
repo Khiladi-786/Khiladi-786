@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:0d1b2a,100:0a0a0a&height=280&section=header&text=Nikhil%20More&fontSize=72&fontColor=00d4ff&fontAlignY=45&desc=AI%20%2F%20ML%20Engineer%20%E2%80%94%20Building%20AI%20That%20Fights%20Cybercrime&descSize=18&descAlignY=65&descColor=ffffff&stroke=00d4ff&strokeWidth=2&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020c18,50:041528,100:020c18&height=300&section=header&text=Nikhil%20More&fontSize=80&fontColor=00d4ff&fontAlignY=45&desc=AI%20%2F%20ML%20Engineer%20%E2%80%94%20Building%20AI%20That%20Fights%20Cybercrime&descSize=18&descAlignY=65&descColor=ffffff&stroke=00d4ff&strokeWidth=2&animation=twinkling" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1200&color=00D4FF&center=true&vCenter=true&width=750&lines=Computer+Vision+%7C+Cybersecurity+AI;Open+Source+Contributor+%40+JdeRobot;Google+%26+GFG+%26+C-DAC+Ambassador;Defending+India%27s+internet%2C+one+model+at+a+time+%F0%9F%9B%A1%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3500&pause=1200&color=00D4FF&center=true&vCenter=true&width=780&lines=Computer+Vision+%7C+Cybersecurity+AI;Open+Source+Contributor+%40+JdeRobot;Google+%26+GFG+%26+C-DAC+Ambassador;Defending+India%27s+internet%2C+one+model+at+a+time+%F0%9F%9B%A1%EF%B8%8F)](https://git.io/typing-svg)
 
 </div>
 
@@ -89,6 +89,19 @@ class NikhilMore:
 ---
 
 ## 🚀 Featured Projects
+
+<div align="center">
+
+| | Project | Stack | Metric |
+|:---:|:--------|:------|:------:|
+| 🔐 | **Phishing URL Detection** | Random Forest · SHAP · Flask · Docker | `89.63% Acc` · `<100ms` |
+| 🎯 | **Real-Time Object Detection** | YOLOv8 · OpenCV · Flask UI | `29 Classes` · `Real-Time` |
+| 📊 | **Customer Segmentation Engine** | Scikit-learn · Pandas · NumPy | `ML Clustering` |
+| 🤖 | **Smart Study Agent** | AI Assistant · NLP | `Student-First` |
+
+</div>
+
+---
 
 ### 🔐 Phishing URL Detection System
 > *Explainable AI defending India's internet users — in real time*
@@ -194,9 +207,9 @@ class NikhilMore:
 
 <div align="center">
 
-| 🧑‍🏫 Students Trained | 🏛️ Ambassadorships | 🌐 Open Source PRs | 📊 Contributions (1 year) |
+| 🧑‍🏫 Students Mentored | 📊 Contributions (1yr) | 🏛️ Ambassadorships | ⚡ Commits in Mar '26 |
 |:---:|:---:|:---:|:---:|
-| **50+** | Google · GFG · C-DAC | JdeRobot · public-apis | **155** |
+| **50+** | **155** | Google · GFG · C-DAC | **58** |
 
 </div>
 
@@ -224,7 +237,7 @@ class NikhilMore:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Khiladi-786&theme=tokyo-night&hide_border=true&area=true&area_color=00D4FF" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Khiladi-786&theme=tokyo-night&hide_border=true&area=true&area_color=00d4ff&color=00d4ff&line=00d4ff&point=ffffff" width="100%"/>
 
 </div>
 
