@@ -63,7 +63,7 @@ class NikhilMore:
 
 ---
 
-## 🏴 Shivaji's Wisdom Meets Modern AI
+## 🏴 Maharaj Wisdom Meets Modern AI
 
 ```
   ╭─────────────────────────────────────────────────────────────╮
