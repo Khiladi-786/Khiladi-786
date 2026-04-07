@@ -41,7 +41,7 @@ class NikhilMore:
     }
 
     currently = [
-        "🧠  Mastering MLOps & Advanced model deployment",
+        "🧠  Mastering MLOps & advanced model deployment",
         "🔐  Building explainable AI for cybersecurity",
         "🌍  Contributing to open-source (JdeRobot, public-apis)",
         "🧑‍🏫  Mentoring 50+ students into open-source contributors",
